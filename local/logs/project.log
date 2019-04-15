@@ -1,0 +1,88 @@
+2019-04-15T12:24:54.120Z - normal: Load ~/.CocosCreator/settings.json
+2019-04-15T12:24:54.350Z - normal: Initializing Asset Database
+2019-04-15T12:24:54.352Z - normal: checking language setting...
+2019-04-15T12:24:54.353Z - normal: Language: zh
+2019-04-15T12:24:55.973Z - success: preview server running at http://localhost:7456
+2019-04-15T12:24:56.120Z - success: protocol editor-framework registered
+2019-04-15T12:24:56.120Z - success: protocol app registered
+2019-04-15T12:24:56.120Z - success: protocol theme registered
+2019-04-15T12:24:56.121Z - success: protocol packages registered
+2019-04-15T12:24:56.121Z - success: protocol uuid registerred
+2019-04-15T12:24:56.121Z - success: protocol db registerred
+2019-04-15T12:24:56.121Z - success: protocol thumbnail registerred
+2019-04-15T12:24:56.121Z - success: protocol unpack registerred
+2019-04-15T12:24:56.121Z - success: protocol disable-commonjs registerred
+2019-04-15T12:24:56.889Z - normal: connected!
+2019-04-15T12:24:56.890Z - normal: Check project /Users/lsz/PeekCard
+2019-04-15T12:24:56.891Z - normal: Initializing project /Users/lsz/PeekCard
+2019-04-15T12:24:57.414Z - normal: Initializing Cocos2d
+2019-04-15T12:24:58.399Z - normal: Initializing engine extends
+2019-04-15T12:24:58.448Z - success: asset-db-debugger loaded
+2019-04-15T12:24:58.450Z - success: baidu-adapter loaded
+2019-04-15T12:24:58.455Z - success: color-picker loaded
+2019-04-15T12:24:58.610Z - success: fb-audience-network loaded
+2019-04-15T12:24:58.686Z - success: fb-live-stream loaded
+2019-04-15T12:24:58.689Z - success: google-play-instant loaded
+2019-04-15T12:24:58.697Z - success: huawei-runtime loaded
+2019-04-15T12:24:58.698Z - success: jsb-adapter loaded
+2019-04-15T12:24:58.711Z - success: oppo-runtime loaded
+2019-04-15T12:24:58.724Z - success: package-manager loaded
+2019-04-15T12:24:59.102Z - success: qqplay-adapter loaded
+2019-04-15T12:24:59.105Z - success: runtime-dev-tools loaded
+2019-04-15T12:24:59.121Z - success: sdkbox loaded
+2019-04-15T12:24:59.133Z - success: tester loaded
+2019-04-15T12:24:59.143Z - success: ui-grid loaded
+2019-04-15T12:24:59.153Z - success: ui-kit-preview-extra loaded
+2019-04-15T12:24:59.161Z - success: ui-kit-preview loaded
+2019-04-15T12:24:59.170Z - success: ui-kit loaded
+2019-04-15T12:24:59.178Z - success: ui-tree loaded
+2019-04-15T12:24:59.192Z - success: vivo-runtime loaded
+2019-04-15T12:24:59.193Z - success: weapp-adapter loaded
+2019-04-15T12:24:59.251Z - success: assets loaded
+2019-04-15T12:24:59.259Z - success: builder loaded
+2019-04-15T12:24:59.773Z - success: cocos-services loaded
+2019-04-15T12:24:59.789Z - success: console loaded
+2019-04-15T12:24:59.817Z - success: fb-instant-games loaded
+2019-04-15T12:24:59.820Z - success: google-instant-games loaded
+2019-04-15T12:24:59.830Z - success: hierarchy loaded
+2019-04-15T12:24:59.840Z - success: inspector loaded
+2019-04-15T12:24:59.842Z - success: keystore loaded
+2019-04-15T12:24:59.853Z - success: node-library loaded
+2019-04-15T12:24:59.855Z - success: package-asset loaded
+2019-04-15T12:24:59.856Z - success: preferences loaded
+2019-04-15T12:24:59.863Z - success: project-exporter loaded
+2019-04-15T12:24:59.873Z - success: project-importer loaded
+2019-04-15T12:24:59.881Z - success: project-settings loaded
+2019-04-15T12:24:59.890Z - success: scene loaded
+2019-04-15T12:24:59.892Z - success: simulator-debugger loaded
+2019-04-15T12:24:59.893Z - success: sprite-editor loaded
+2019-04-15T12:24:59.904Z - success: store loaded
+2019-04-15T12:24:59.917Z - success: timeline loaded
+2019-04-15T12:25:01.850Z - normal: Loading packages
+2019-04-15T12:25:01.911Z - normal: Watching packages
+2019-04-15T12:25:01.990Z - normal: Run Application
+2019-04-15T12:25:03.213Z - info: Cocos Services load base data!
+2019-04-15T12:25:25.064Z - warn: Error: Ipc will not have a callback. message: scene@renderer:1067
+2019-04-15T12:25:25.081Z - error: Failed to reset layout: Error: Failed to close panel scene
+    at Object.e._unloadAll (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:2087)
+    at r.waterfall.e (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/dock-utils.js:1:5916)
+    at fn (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:746:34)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:1213:16
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:166:37
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:706:43
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:167:37
+    at Object.async.waterfall (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:710:44)
+    at Object.e.reset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/dock-utils.js:1:5899)
+    at EventEmitter.t.ipcRenderer.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/dock-utils.js:1:8429)
+    at e.reset.e (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/dock-utils.js:1:8453)
+    at r.waterfall.e (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/dock-utils.js:1:7375)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:52:16
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:696:30
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:167:37
+    at Immediate.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:1206:34)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2019-04-15T12:28:47.081Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:1878
+2019-04-15T12:28:47.100Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:1879
+2019-04-15T12:58:43.725Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:15821
